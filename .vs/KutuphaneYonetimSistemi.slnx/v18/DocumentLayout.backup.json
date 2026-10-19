@@ -3,8 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\MY WORLD\\OneDrive\\Desktop\\KutuphaneProjesi\\KutuphaneYonetimSistemi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0D37D303-00E9-4E55-BDEC-CE882F6090ED}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|c:\\users\\my world\\onedrive\\desktop\\kutuphaneprojesi\\kutuphaneyonetimsistemi\\kutuphaneyonetimsistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0D37D303-00E9-4E55-BDEC-CE882F6090ED}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0D37D303-00E9-4E55-BDEC-CE882F6090ED}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|c:\\users\\my world\\onedrive\\desktop\\kutuphaneprojesi\\kutuphaneyonetimsistemi\\kutuphaneyonetimsistemi\\form_baslangic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D37D303-00E9-4E55-BDEC-CE882F6090ED}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\form_baslangic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D37D303-00E9-4E55-BDEC-CE882F6090ED}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|c:\\users\\my world\\onedrive\\desktop\\kutuphaneprojesi\\kutuphaneyonetimsistemi\\kutuphaneyonetimsistemi\\form_baslangic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D37D303-00E9-4E55-BDEC-CE882F6090ED}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\form_baslangic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D37D303-00E9-4E55-BDEC-CE882F6090ED}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|C:\\Users\\MY WORLD\\OneDrive\\Desktop\\KutuphaneProjesi\\KutuphaneYonetimSistemi\\kutuphaneyonetimsistemi\\usercontrols\\uckitaplistele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D37D303-00E9-4E55-BDEC-CE882F6090ED}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\usercontrols\\uckitaplistele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D37D303-00E9-4E55-BDEC-CE882F6090ED}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|C:\\Users\\MY WORLD\\OneDrive\\Desktop\\KutuphaneProjesi\\KutuphaneYonetimSistemi\\kutuphaneyonetimsistemi\\usercontrols\\uckitaplistele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D37D303-00E9-4E55-BDEC-CE882F6090ED}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\usercontrols\\uckitaplistele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D37D303-00E9-4E55-BDEC-CE882F6090ED}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|C:\\Users\\MY WORLD\\OneDrive\\Desktop\\KutuphaneProjesi\\KutuphaneYonetimSistemi\\kutuphaneyonetimsistemi\\from_giris.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D37D303-00E9-4E55-BDEC-CE882F6090ED}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\from_giris.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D37D303-00E9-4E55-BDEC-CE882F6090ED}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|C:\\Users\\MY WORLD\\OneDrive\\Desktop\\KutuphaneProjesi\\KutuphaneYonetimSistemi\\kutuphaneyonetimsistemi\\from_giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D37D303-00E9-4E55-BDEC-CE882F6090ED}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\from_giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D37D303-00E9-4E55-BDEC-CE882F6090ED}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|C:\\Users\\MY WORLD\\OneDrive\\Desktop\\KutuphaneProjesi\\KutuphaneYonetimSistemi\\kutuphaneyonetimsistemi\\from_giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D37D303-00E9-4E55-BDEC-CE882F6090ED}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\from_giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D37D303-00E9-4E55-BDEC-CE882F6090ED}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|C:\\Users\\MY WORLD\\OneDrive\\Desktop\\KutuphaneProjesi\\KutuphaneYonetimSistemi\\kutuphaneyonetimsistemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D37D303-00E9-4E55-BDEC-CE882F6090ED}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D37D303-00E9-4E55-BDEC-CE882F6090ED}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|C:\\Users\\MY WORLD\\OneDrive\\Desktop\\KutuphaneProjesi\\KutuphaneYonetimSistemi\\kutuphaneyonetimsistemi\\oturum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D37D303-00E9-4E55-BDEC-CE882F6090ED}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\oturum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D37D303-00E9-4E55-BDEC-CE882F6090ED}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|C:\\Users\\MY WORLD\\OneDrive\\Desktop\\KutuphaneProjesi\\KutuphaneYonetimSistemi\\kutuphaneyonetimsistemi\\depolar\\kitaprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D37D303-00E9-4E55-BDEC-CE882F6090ED}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\depolar\\kitaprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D37D303-00E9-4E55-BDEC-CE882F6090ED}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|C:\\Users\\MY WORLD\\OneDrive\\Desktop\\KutuphaneProjesi\\KutuphaneYonetimSistemi\\kutuphaneyonetimsistemi\\depolar\\kullanicirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D37D303-00E9-4E55-BDEC-CE882F6090ED}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\depolar\\kullanicirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D37D303-00E9-4E55-BDEC-CE882F6090ED}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|C:\\Users\\MY WORLD\\OneDrive\\Desktop\\KutuphaneProjesi\\KutuphaneYonetimSistemi\\kutuphaneyonetimsistemi\\veriler\\veritabanibaglantisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D37D303-00E9-4E55-BDEC-CE882F6090ED}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\veriler\\veritabanibaglantisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D37D303-00E9-4E55-BDEC-CE882F6090ED}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|C:\\Users\\MY WORLD\\OneDrive\\Desktop\\KutuphaneProjesi\\KutuphaneYonetimSistemi\\kutuphaneyonetimsistemi\\modeller\\uye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D37D303-00E9-4E55-BDEC-CE882F6090ED}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\modeller\\uye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D37D303-00E9-4E55-BDEC-CE882F6090ED}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|C:\\Users\\MY WORLD\\OneDrive\\Desktop\\KutuphaneProjesi\\KutuphaneYonetimSistemi\\kutuphaneyonetimsistemi\\modeller\\kitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D37D303-00E9-4E55-BDEC-CE882F6090ED}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\modeller\\kitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D37D303-00E9-4E55-BDEC-CE882F6090ED}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|C:\\Users\\MY WORLD\\OneDrive\\Desktop\\KutuphaneProjesi\\KutuphaneYonetimSistemi\\kutuphaneyonetimsistemi\\modeller\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D37D303-00E9-4E55-BDEC-CE882F6090ED}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\modeller\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D37D303-00E9-4E55-BDEC-CE882F6090ED}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|C:\\Users\\MY WORLD\\OneDrive\\Desktop\\KutuphaneProjesi\\KutuphaneYonetimSistemi\\kutuphaneyonetimsistemi\\belgeler\\veritabani.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{0D37D303-00E9-4E55-BDEC-CE882F6090ED}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\belgeler\\veritabani.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +83,192 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\MY WORLD\\OneDrive\\Desktop\\KutuphaneProjesi\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\Form1.cs",
-              "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\Form1.cs",
-              "ToolTip": "C:\\Users\\MY WORLD\\OneDrive\\Desktop\\KutuphaneProjesi\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\Form1.cs [Tasar\u0131m]",
-              "RelativeToolTip": "KutuphaneYonetimSistemi\\Form1.cs [Tasar\u0131m]",
+              "Title": "form_baslangic.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\MY WORLD\\OneDrive\\Desktop\\KutuphaneProjesi\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\form_baslangic.cs",
+              "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\form_baslangic.cs",
+              "ToolTip": "C:\\Users\\MY WORLD\\OneDrive\\Desktop\\KutuphaneProjesi\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\form_baslangic.cs [Tasar\u0131m]",
+              "RelativeToolTip": "KutuphaneYonetimSistemi\\form_baslangic.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-19T18:39:34.365Z",
+              "WhenOpened": "2026-10-19T19:55:38.163Z",
               "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "form_baslangic.cs",
+              "DocumentMoniker": "C:\\Users\\MY WORLD\\OneDrive\\Desktop\\KutuphaneProjesi\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\form_baslangic.cs",
+              "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\form_baslangic.cs",
+              "ToolTip": "C:\\Users\\MY WORLD\\OneDrive\\Desktop\\KutuphaneProjesi\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\form_baslangic.cs",
+              "RelativeToolTip": "KutuphaneYonetimSistemi\\form_baslangic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T19:49:31.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ucKitapListele.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\MY WORLD\\OneDrive\\Desktop\\KutuphaneProjesi\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\UserControls\\ucKitapListele.cs",
+              "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\UserControls\\ucKitapListele.cs",
+              "ToolTip": "C:\\Users\\MY WORLD\\OneDrive\\Desktop\\KutuphaneProjesi\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\UserControls\\ucKitapListele.cs [Tasar\u0131m]",
+              "RelativeToolTip": "KutuphaneYonetimSistemi\\UserControls\\ucKitapListele.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T19:35:16.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ucKitapListele.cs",
+              "DocumentMoniker": "C:\\Users\\MY WORLD\\OneDrive\\Desktop\\KutuphaneProjesi\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\UserControls\\ucKitapListele.cs",
+              "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\UserControls\\ucKitapListele.cs",
+              "ToolTip": "C:\\Users\\MY WORLD\\OneDrive\\Desktop\\KutuphaneProjesi\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\UserControls\\ucKitapListele.cs",
+              "RelativeToolTip": "KutuphaneYonetimSistemi\\UserControls\\ucKitapListele.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T19:39:27.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "from_giris.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MY WORLD\\OneDrive\\Desktop\\KutuphaneProjesi\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\from_giris.Designer.cs",
+              "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\from_giris.Designer.cs",
+              "ToolTip": "C:\\Users\\MY WORLD\\OneDrive\\Desktop\\KutuphaneProjesi\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\from_giris.Designer.cs",
+              "RelativeToolTip": "KutuphaneYonetimSistemi\\from_giris.Designer.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T19:27:53.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MY WORLD\\OneDrive\\Desktop\\KutuphaneProjesi\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\Program.cs",
+              "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\Program.cs",
+              "ToolTip": "C:\\Users\\MY WORLD\\OneDrive\\Desktop\\KutuphaneProjesi\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\Program.cs",
+              "RelativeToolTip": "KutuphaneYonetimSistemi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T19:27:06.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "from_giris.cs",
+              "DocumentMoniker": "C:\\Users\\MY WORLD\\OneDrive\\Desktop\\KutuphaneProjesi\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\from_giris.cs",
+              "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\from_giris.cs",
+              "ToolTip": "C:\\Users\\MY WORLD\\OneDrive\\Desktop\\KutuphaneProjesi\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\from_giris.cs",
+              "RelativeToolTip": "KutuphaneYonetimSistemi\\from_giris.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T19:23:11.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "from_giris.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\MY WORLD\\OneDrive\\Desktop\\KutuphaneProjesi\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\from_giris.cs",
+              "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\from_giris.cs",
+              "ToolTip": "C:\\Users\\MY WORLD\\OneDrive\\Desktop\\KutuphaneProjesi\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\from_giris.cs [Tasar\u0131m]",
+              "RelativeToolTip": "KutuphaneYonetimSistemi\\from_giris.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T19:22:47.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Oturum.cs",
+              "DocumentMoniker": "C:\\Users\\MY WORLD\\OneDrive\\Desktop\\KutuphaneProjesi\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\Oturum.cs",
+              "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\Oturum.cs",
+              "ToolTip": "C:\\Users\\MY WORLD\\OneDrive\\Desktop\\KutuphaneProjesi\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\Oturum.cs",
+              "RelativeToolTip": "KutuphaneYonetimSistemi\\Oturum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T19:15:04.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KitapRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MY WORLD\\OneDrive\\Desktop\\KutuphaneProjesi\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\Depolar\\KitapRepository.cs",
+              "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\Depolar\\KitapRepository.cs",
+              "ToolTip": "C:\\Users\\MY WORLD\\OneDrive\\Desktop\\KutuphaneProjesi\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\Depolar\\KitapRepository.cs",
+              "RelativeToolTip": "KutuphaneYonetimSistemi\\Depolar\\KitapRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T19:13:28.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "KullaniciRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MY WORLD\\OneDrive\\Desktop\\KutuphaneProjesi\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\Depolar\\KullaniciRepository.cs",
+              "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\Depolar\\KullaniciRepository.cs",
+              "ToolTip": "C:\\Users\\MY WORLD\\OneDrive\\Desktop\\KutuphaneProjesi\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\Depolar\\KullaniciRepository.cs",
+              "RelativeToolTip": "KutuphaneYonetimSistemi\\Depolar\\KullaniciRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T19:12:47.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VeritabaniBaglantisi.cs",
+              "DocumentMoniker": "C:\\Users\\MY WORLD\\OneDrive\\Desktop\\KutuphaneProjesi\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\Veriler\\VeritabaniBaglantisi.cs",
+              "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\Veriler\\VeritabaniBaglantisi.cs",
+              "ToolTip": "C:\\Users\\MY WORLD\\OneDrive\\Desktop\\KutuphaneProjesi\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\Veriler\\VeritabaniBaglantisi.cs",
+              "RelativeToolTip": "KutuphaneYonetimSistemi\\Veriler\\VeritabaniBaglantisi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T19:09:57.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Uye.cs",
+              "DocumentMoniker": "C:\\Users\\MY WORLD\\OneDrive\\Desktop\\KutuphaneProjesi\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\Modeller\\Uye.cs",
+              "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\Modeller\\Uye.cs",
+              "ToolTip": "C:\\Users\\MY WORLD\\OneDrive\\Desktop\\KutuphaneProjesi\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\Modeller\\Uye.cs",
+              "RelativeToolTip": "KutuphaneYonetimSistemi\\Modeller\\Uye.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T19:08:27.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Kitap.cs",
+              "DocumentMoniker": "C:\\Users\\MY WORLD\\OneDrive\\Desktop\\KutuphaneProjesi\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\Modeller\\Kitap.cs",
+              "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\Modeller\\Kitap.cs",
+              "ToolTip": "C:\\Users\\MY WORLD\\OneDrive\\Desktop\\KutuphaneProjesi\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\Modeller\\Kitap.cs",
+              "RelativeToolTip": "KutuphaneYonetimSistemi\\Modeller\\Kitap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T19:07:43.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Kullanici.cs",
+              "DocumentMoniker": "C:\\Users\\MY WORLD\\OneDrive\\Desktop\\KutuphaneProjesi\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\Modeller\\Kullanici.cs",
+              "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\Modeller\\Kullanici.cs",
+              "ToolTip": "C:\\Users\\MY WORLD\\OneDrive\\Desktop\\KutuphaneProjesi\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\Modeller\\Kullanici.cs",
+              "RelativeToolTip": "KutuphaneYonetimSistemi\\Modeller\\Kullanici.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T19:06:11.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "veritabani.sql ",
+              "DocumentMoniker": "C:\\Users\\MY WORLD\\OneDrive\\Desktop\\KutuphaneProjesi\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\Belgeler\\veritabani.sql",
+              "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\Belgeler\\veritabani.sql",
+              "ToolTip": "C:\\Users\\MY WORLD\\OneDrive\\Desktop\\KutuphaneProjesi\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\Belgeler\\veritabani.sql",
+              "RelativeToolTip": "KutuphaneYonetimSistemi\\Belgeler\\veritabani.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-10-19T19:05:23.385Z"
             }
           ]
         }

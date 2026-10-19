@@ -10,11 +10,12 @@ using System.Windows.Forms;
 
 namespace KutuphaneYonetimSistemi
 {
-    public partial class Form1 : Form
+    public partial class form_baslangic : Form
     {
-        public Form1()
+        public form_baslangic()
         {
             InitializeComponent();
         }
     }
 }
+

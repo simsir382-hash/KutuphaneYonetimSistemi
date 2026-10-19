@@ -1,0 +1,11 @@
+C:\Users\MY WORLD\OneDrive\Desktop\KutuphaneProjesi\KutuphaneYonetimSistemi\KutuphaneYonetimSistemi\bin\Debug\KutuphaneYonetimSistemi.exe.config
+C:\Users\MY WORLD\OneDrive\Desktop\KutuphaneProjesi\KutuphaneYonetimSistemi\KutuphaneYonetimSistemi\bin\Debug\KutuphaneYonetimSistemi.exe
+C:\Users\MY WORLD\OneDrive\Desktop\KutuphaneProjesi\KutuphaneYonetimSistemi\KutuphaneYonetimSistemi\bin\Debug\KutuphaneYonetimSistemi.pdb
+C:\Users\MY WORLD\OneDrive\Desktop\KutuphaneProjesi\KutuphaneYonetimSistemi\KutuphaneYonetimSistemi\obj\Debug\KutuphaneYonetimSistemi.csproj.AssemblyReference.cache
+C:\Users\MY WORLD\OneDrive\Desktop\KutuphaneProjesi\KutuphaneYonetimSistemi\KutuphaneYonetimSistemi\obj\Debug\KutuphaneYonetimSistemi.Properties.Resources.resources
+C:\Users\MY WORLD\OneDrive\Desktop\KutuphaneProjesi\KutuphaneYonetimSistemi\KutuphaneYonetimSistemi\obj\Debug\KutuphaneYonetimSistemi.csproj.GenerateResource.cache
+C:\Users\MY WORLD\OneDrive\Desktop\KutuphaneProjesi\KutuphaneYonetimSistemi\KutuphaneYonetimSistemi\obj\Debug\KutuphaneYonetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\MY WORLD\OneDrive\Desktop\KutuphaneProjesi\KutuphaneYonetimSistemi\KutuphaneYonetimSistemi\obj\Debug\KutuphaneYonetimSistemi.exe
+C:\Users\MY WORLD\OneDrive\Desktop\KutuphaneProjesi\KutuphaneYonetimSistemi\KutuphaneYonetimSistemi\obj\Debug\KutuphaneYonetimSistemi.pdb
+C:\Users\MY WORLD\OneDrive\Desktop\KutuphaneProjesi\KutuphaneYonetimSistemi\KutuphaneYonetimSistemi\obj\Debug\KutuphaneYonetimSistemi.from_giris.resources
+C:\Users\MY WORLD\OneDrive\Desktop\KutuphaneProjesi\KutuphaneYonetimSistemi\KutuphaneYonetimSistemi\obj\Debug\KutuphaneYonetimSistemi.UserControls.ucKitapListele.resources
