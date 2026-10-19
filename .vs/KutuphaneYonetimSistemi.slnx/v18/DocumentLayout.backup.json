@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MY WORLD\\OneDrive\\Desktop\\KutuphaneProjesi\\KutuphaneYonetimSistemi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D37D303-00E9-4E55-BDEC-CE882F6090ED}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|c:\\users\\my world\\onedrive\\desktop\\kutuphaneprojesi\\kutuphaneyonetimsistemi\\kutuphaneyonetimsistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D37D303-00E9-4E55-BDEC-CE882F6090ED}|KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi.csproj|solutionrelative:kutuphaneyonetimsistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\MY WORLD\\OneDrive\\Desktop\\KutuphaneProjesi\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\Form1.cs",
+              "RelativeDocumentMoniker": "KutuphaneYonetimSistemi\\Form1.cs",
+              "ToolTip": "C:\\Users\\MY WORLD\\OneDrive\\Desktop\\KutuphaneProjesi\\KutuphaneYonetimSistemi\\KutuphaneYonetimSistemi\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "KutuphaneYonetimSistemi\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T18:39:34.365Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
