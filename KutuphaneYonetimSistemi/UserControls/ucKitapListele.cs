@@ -18,5 +18,10 @@ namespace KutuphaneYonetimSistemi.UserControls
             // Veritabanından kitapları getirip DataGridView'e bağlama
             dgvKitaplar.DataSource = _kitapRepo.TumKitaplariGetir();
         }
+
+        private void dgvKitaplar_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }

@@ -72,7 +72,16 @@
     <Compile Include="UserControls\ucKitapListele.Designer.cs">
       <DependentUpon>ucKitapListele.cs</DependentUpon>
     </Compile>
+    <Compile Include="UserControls\ucKitapYonet.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\ucKitapYonet.Designer.cs">
+      <DependentUpon>ucKitapYonet.cs</DependentUpon>
+    </Compile>
     <Compile Include="Veriler\VeritabaniBaglantisi.cs" />
+    <EmbeddedResource Include="form_baslangic.resx">
+      <DependentUpon>form_baslangic.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="from_giris.resx">
       <DependentUpon>from_giris.cs</DependentUpon>
     </EmbeddedResource>
@@ -87,6 +96,9 @@
     </Compile>
     <EmbeddedResource Include="UserControls\ucKitapListele.resx">
       <DependentUpon>ucKitapListele.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\ucKitapYonet.resx">
+      <DependentUpon>ucKitapYonet.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

@@ -9,3 +9,5 @@ C:\Users\MY WORLD\OneDrive\Desktop\KutuphaneProjesi\KutuphaneYonetimSistemi\Kutu
 C:\Users\MY WORLD\OneDrive\Desktop\KutuphaneProjesi\KutuphaneYonetimSistemi\KutuphaneYonetimSistemi\obj\Debug\KutuphaneYonetimSistemi.pdb
 C:\Users\MY WORLD\OneDrive\Desktop\KutuphaneProjesi\KutuphaneYonetimSistemi\KutuphaneYonetimSistemi\obj\Debug\KutuphaneYonetimSistemi.from_giris.resources
 C:\Users\MY WORLD\OneDrive\Desktop\KutuphaneProjesi\KutuphaneYonetimSistemi\KutuphaneYonetimSistemi\obj\Debug\KutuphaneYonetimSistemi.UserControls.ucKitapListele.resources
+C:\Users\MY WORLD\OneDrive\Desktop\KutuphaneProjesi\KutuphaneYonetimSistemi\KutuphaneYonetimSistemi\obj\Debug\KutuphaneYonetimSistemi.form_baslangic.resources
+C:\Users\MY WORLD\OneDrive\Desktop\KutuphaneProjesi\KutuphaneYonetimSistemi\KutuphaneYonetimSistemi\obj\Debug\KutuphaneYonetimSistemi.UserControls.ucKitapYonet.resources

@@ -35,12 +35,14 @@
             // dgvKitaplar
             // 
             this.dgvKitaplar.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvKitaplar.Location = new System.Drawing.Point(3, 4);
+            this.dgvKitaplar.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.dgvKitaplar.Location = new System.Drawing.Point(0, 0);
             this.dgvKitaplar.Name = "dgvKitaplar";
             this.dgvKitaplar.RowHeadersWidth = 51;
             this.dgvKitaplar.RowTemplate.Height = 24;
-            this.dgvKitaplar.Size = new System.Drawing.Size(146, 145);
+            this.dgvKitaplar.Size = new System.Drawing.Size(150, 150);
             this.dgvKitaplar.TabIndex = 0;
+            this.dgvKitaplar.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvKitaplar_CellContentClick);
             // 
             // ucKitapListele
             // 
@@ -48,6 +50,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.Controls.Add(this.dgvKitaplar);
             this.Name = "ucKitapListele";
+            this.Load += new System.EventHandler(this.ucKitapListele_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvKitaplar)).EndInit();
             this.ResumeLayout(false);
 
